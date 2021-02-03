@@ -18,7 +18,7 @@
 
 - На открывшейся странице нажмите `Create pull request`, после чего создастся запрос на изменение. В рамках запроса будет проведена автоматическая [проверка](https://github.com/TinkoffCreditSystems/career/blob/main/CONTRIBUTING.md#markdown-style) корректности получившейся разметки и доступности всех ссылок. После [подтверждения](https://github.com/TinkoffCreditSystems/career/blob/main/CONTRIBUTING.md#подтверждение) запроса [изменения](https://github.com/TinkoffCreditSystems/career/blob/main/CONTRIBUTING.md#релиз-изменений) попадут в основную ветку и будут доступны всем.
 
-## Оформление зарпосов на изменение
+## Оформление запросов на изменение
 
 ### Ветки
 
