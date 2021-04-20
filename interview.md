@@ -82,6 +82,8 @@
 ###### Курсы:
 - [Алгоритмы, часть I](https://www.coursera.org/learn/algorithms-part1)
 - [Специализация «Структуры и алгоритмы данных»](https://www.coursera.org/specializations/data-structures-algorithms)
+- [Лекции курса «Алгоритмы и структуры данных» от Тинькофф Образование](https://www.youtube.com/playlist?list=PLjCCarnDJNssC82zhyeg8BxfhPG3b8iZ2)
+- [Конспекты по продвинутым алгоритмам и структурам данных](https://algorithmica.org/ru/)
 
 ###### Книги:
 - Алгоритмы. Построение и анализ / Томас Кормен, Чарльз Лейзерсон, Рональд Ривест, Клиффорд Штайн
