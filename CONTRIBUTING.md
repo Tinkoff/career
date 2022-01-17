@@ -4,7 +4,7 @@
 
 - Зарегистрируйтесь на [GitHub](https://github.com/) (если вы еще этого не сделали).
 
-- Откройте в браузере документ, в который собираетесь внести изменения (например [этот](https://github.com/TinkoffCreditSystems/career/blob/main/interview.md))
+- Откройте в браузере документ, в который собираетесь внести изменения (например [этот](https://github.com/Tinkoff/career/blob/main/interview/README.md))
 
 - Нажмите кнопку редактирования ![кнопку редактирования](http://s.csssr.ru/U2Y7B7QMD/chrome_2021-01-27_11-37-34.png)
 
@@ -12,11 +12,11 @@
 
 > Для написания документов используется облегченный язык разметки [Markdown](https://ru.wikipedia.org/wiki/Markdown). Если Вы с ним не знакомы, ознакомьтесь со специальным [руководством](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-- Создайте новую [ветку](https://github.com/TinkoffCreditSystems/career/blob/main/CONTRIBUTING.md#ветки), дайте ей название и отправьте [изменения](https://github.com/TinkoffCreditSystems/career/blob/main/CONTRIBUTING.md#коммиты):
+- Создайте новую [ветку](https://github.com/Tinkoff/career/blob/main/CONTRIBUTING.md#ветки), дайте ей название и отправьте [изменения](https://github.com/Tinkoff/career/blob/main/CONTRIBUTING.md#коммиты):
 
 ![](http://s.csssr.ru/U2Y7B7QMD/chrome_2021-01-27_12-00-37.png)
 
-- На открывшейся странице нажмите `Create pull request`, после чего создастся запрос на изменение. В рамках запроса будет проведена автоматическая [проверка](https://github.com/TinkoffCreditSystems/career/blob/main/CONTRIBUTING.md#markdown-style) корректности получившейся разметки и доступности всех ссылок. После [подтверждения](https://github.com/TinkoffCreditSystems/career/blob/main/CONTRIBUTING.md#подтверждение) запроса [изменения](https://github.com/TinkoffCreditSystems/career/blob/main/CONTRIBUTING.md#релиз-изменений) попадут в основную ветку и будут доступны всем.
+- На открывшейся странице нажмите `Create pull request`, после чего создастся запрос на изменение. В рамках запроса будет проведена автоматическая [проверка](https://github.com/Tinkoff/career/blob/main/CONTRIBUTING.md#markdown-style) корректности получившейся разметки и доступности всех ссылок. После [подтверждения](https://github.com/Tinkoff/career/blob/main/CONTRIBUTING.md#подтверждение) запроса [изменения](https://github.com/Tinkoff/career/blob/main/CONTRIBUTING.md#релиз-изменений) попадут в основную ветку и будут доступны всем.
 
 ## Оформление запросов на изменение
 
