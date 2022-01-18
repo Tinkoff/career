@@ -15,7 +15,7 @@
 - [Awesome Gatling Github Page](https://github.com/aliesbelik/awesome-gatling)
 
 ### Блоги:
-- [Brendan Gregg's Blog](http://www.brendangregg.com/overview.html)
+- [Brendan Gregg's Blog](https://www.brendangregg.com/overview.html)
 - [Denis Bakhvalov's Blog](https://easyperf.net/notes/)
 
 ### Доклады:
