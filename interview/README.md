@@ -51,10 +51,15 @@
 * [Секция по ML](./sections/platform-ml.md)
 * [Дизайн ML-систем](./sections/system-design-ml.md)
 
+#### Quality Assurance (QA Fullstack)
+* [Профильная секция тестирования (backend, mobile, web)](./sections/platform-qa.md)
+* [Теория и практика QA](./sections/platform-qa-theory-and-practice.md)
+* [Программирование для QA](./sections/programming-basic.md)
+
 #### Тестирование производительности
 В алгоритмической секции, по направлению тестирования производительности, используются задачи по кодированию уровня easy (leetcode), нацеленные на умение использовать простые структуры данных, а не на эффективную реализацию алгоритмов.
 
-* [Алгоритмы](./sections/programming.md)
+* [Программирование для QA](./sections/programming-basic.md)
 * [Секция по дизайну проектов тестирования производительности](./sections/system-design-perfomance-testing.md)
 
 ## Этап 3: знакомство с командой
