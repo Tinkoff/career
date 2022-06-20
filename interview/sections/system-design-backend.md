@@ -17,6 +17,7 @@
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) — базовые темы и упражнения по дизайну систем, а также упражнения по объектно-ориентированному анализу и проектированию.
 - [Architectural Katas](http://nealford.com/katas/) — множество примеров архитектурных задач.
 - [System Design Interview и как к ним подготовиться](https://apolomodov.medium.com/preparation-for-system-design-interview-66489d7a0af6) - описание ожиданий от позиций и дополнительные материалы, которые помогут подготовиться
+- [Публичное System Design Interview на конференции C++ Russia 2022](https://apolomodov.medium.com/example-of-system-design-interview-7790a5569207) -   интервью по системному дизайну, которое мы провели для того, чтобы показать как оно может выглядеть
 
 ### Книги:
 - Высоконагруженные приложения. Программирование, масштабирование, поддержка / Мартин Клеппман. В книге достаточно просто объясняют теорию
