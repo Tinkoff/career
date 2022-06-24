@@ -33,8 +33,8 @@
 * [Системный дизайн](./sections/system-design-backend.md)
 
 #### Frontend-разработка
+* [Секция по Web платформе и фреймворкам](./sections/platform-web.md)
 * [Алгоритмы](./sections/programming.md)
-* [Секция по платформе или языку](./sections/platform-web.md)
 * [Системный дизайн](./sections/system-design-web.md) (для кандидатов senior-уровня)
 
 #### SRE
