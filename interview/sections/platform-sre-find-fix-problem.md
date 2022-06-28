@@ -17,3 +17,5 @@
 ### Сайты:
 - [Ультимативный сборник материалов по SRE-подготовке](https://github.com/mxssl/sre-interview-prep-guide)
 
+### Выступления про наш процесс найма SRE:
+- [Собеседование SRE: Troubleshooting и System Design](https://apolomodov.medium.com/troubleshooting-interview-3690b40a3d77)
