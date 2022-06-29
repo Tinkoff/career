@@ -35,7 +35,7 @@
 #### Frontend-разработка
 * [Секция по Web платформе и фреймворкам](./sections/platform-web.md)
 * [Алгоритмы](./sections/programming.md)
-* [Системный дизайн](./sections/system-design-web.md) (для кандидатов senior-уровня)
+* [Архитектурная секция](./sections/system-design-web.md) (для кандидатов уровня middle+ и выше)
 
 #### SRE
 * [Проверка общих инженерных компетенций](./sections/platform-sre.md)
