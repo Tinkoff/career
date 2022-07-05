@@ -47,7 +47,7 @@
    - [Learn RxJS](https://www.learnrxjs.io/)
    - [RxJS Subjects](https://aalexeev239.github.io/rxjs-subjects/)
    - [Strongbrew: Примеры решения практических задач](https://blog.strongbrew.io/tag/RxJS/)
-   - [Hot vs Cold Obsevables](https://benlesh.medium.com/hot-vs-cold-observables-f8094ed53339#.8x9uam5rg)
+   - [Hot vs Cold Observables](https://benlesh.medium.com/hot-vs-cold-observables-f8094ed53339#.8x9uam5rg)
 
 ### React
 
