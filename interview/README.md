@@ -28,8 +28,8 @@
 ### Направления и секции в Тинькофф
 
 #### Backend-разработка
-* [Секция программирования](./sections/programming.md)
 * [Секция по платформе или языку](./sections/platform-backend.md)
+* [Секция программирования](./sections/programming.md)
 * [Системный дизайн](./sections/system-design-backend.md)
 
 #### Frontend-разработка
