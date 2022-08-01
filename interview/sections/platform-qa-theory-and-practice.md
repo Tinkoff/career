@@ -3,6 +3,7 @@
 Общаемся на основополагающие темы в области обеспечения качества, документирования дефектов, стратегий проверки функционала.
 
 ### Книги:
- - Agile-тестирование. Обучающий курс для всей команды. Грегори Джанет, Криспин Лиза
- - A Practitioner’s Guide to Software Test Design”. Lee Copeland
- - Testing Computer Software. Сэм Канер, Джек Фолк, Енг Кек Нгуен
+
+- Agile-тестирование. Обучающий курс для всей команды. Грегори Джанет, Криспин Лиза
+- A Practitioner’s Guide to Software Test Design”. Lee Copeland
+- Testing Computer Software. Сэм Канер, Джек Фолк, Енг Кек Нгуен
