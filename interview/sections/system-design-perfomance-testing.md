@@ -37,10 +37,10 @@
 
 ### Статьи
 
-- [Введение в Gatling](https://habr.com/ru/company/tinkoff/blog/655341/) 
+- [Введение в Gatling](https://habr.com/ru/company/tinkoff/blog/655341/)
 - [Использование Gatling. Разбираемся в тестировании HTTP](https://habr.com/ru/company/tinkoff/blog/658479/)
-- [Использование Gatling. Разбираемся в тестировании JDBC](https://habr.com/ru/company/tinkoff/blog/663718/) 
-- [Использование Gatling. Разбираемся в тестировании gRPC](https://habr.com/ru/company/tinkoff/blog/664674/) 
-- [Использование Gatling. Разбираемся в тестировании kafka](https://habr.com/ru/company/tinkoff/blog/666886/) 
-- [Использование Gatling. Разбираемся в тестировании AMQP](https://habr.com/ru/company/tinkoff/blog/670768/) 
+- [Использование Gatling. Разбираемся в тестировании JDBC](https://habr.com/ru/company/tinkoff/blog/663718/)
+- [Использование Gatling. Разбираемся в тестировании gRPC](https://habr.com/ru/company/tinkoff/blog/664674/)
+- [Использование Gatling. Разбираемся в тестировании kafka](https://habr.com/ru/company/tinkoff/blog/666886/)
+- [Использование Gatling. Разбираемся в тестировании AMQP](https://habr.com/ru/company/tinkoff/blog/670768/)
 - [Анализ результатов нагрузочного тестирования](https://habr.com/ru/company/tinkoff/blog/514314/)
