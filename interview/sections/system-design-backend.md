@@ -17,7 +17,9 @@
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) — базовые темы и упражнения по дизайну систем, а также упражнения по объектно-ориентированному анализу и проектированию.
 - [Architectural Katas](http://nealford.com/katas/) — множество примеров архитектурных задач.
 - [System Design Interview и как они оцениваются](https://apolomodov.medium.com/preparation-for-system-design-interview-66489d7a0af6) - описание ожиданий от кандидатов на разные уровни проектирования, шаблон задачи и материалы для самобучения
-- [Публичное System Design Interview на конференции C++ Russia 2022](https://apolomodov.medium.com/example-of-system-design-interview-7790a5569207) - интервью по системному дизайну, которое мы провели для того, чтобы показать как оно может выглядеть
+- [Публичное System Design Interview на конференции C++ Russia 2022](https://apolomodov.medium.com/example-of-system-design-interview-7790a5569207) - интервью по системному дизайну на проектирование Youtube. Это открытое собеседование похоже на то, как мы проводим свои собеседования кандидатов
+- [Публичное System Design Interview на конференции ArchDays 2022](https://apolomodov.medium.com/public-system-design-interview-at-archdays-2022-2a7ea02175af) - интервью по системному дизайну на проектирование системы бронирования номеров в отелях. Это открытое собеседование похоже на то, как мы проводим свои собеседования кандидатов
+
 - [Как подготовиться и пройти System Design Interview](https://apolomodov.medium.com/how-to-prepare-for-and-pass-the-system-design-interview-78b820589e8) - описание фреймворка прохождения System Design Interview, ожиданий на каждом шаге, от сбора требований до масштабирования под нагрузку. И самое приятное - материалы для самообучения для каждого из шагов в рамках этого фреймворка
 
 ### Книги:
