@@ -29,6 +29,6 @@ jobs:
       - name: Prettier Action
         uses: creyD/prettier_action@v4.2
         with:
-          prettier_options: --write **/*.{js,md}
+          prettier_options: --check **/*.{js,md}
           dry: true
 
